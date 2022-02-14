@@ -9,7 +9,7 @@
 
 - Hi, I am working on **Javascript Project**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js & Node Js**
 
 - 👯 I’m looking to collaborate on **any open source program**
 
