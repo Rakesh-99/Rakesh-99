@@ -7,7 +7,7 @@ I am a Second year Bachelor of Technology (B.Tech.) Computer Science student �
 
 - Hi, I am working on **Javascript Project**
 
-- 🌱 I’m currently learning **React Js & DSA  **
+- 🌱 I’m currently learning **ReactJs & DSA**
 
 - 👯 I’m looking to collaborate on **any open source program**
 
