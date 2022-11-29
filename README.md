@@ -5,7 +5,7 @@ I am a Second year Bachelor of Technology (B.Tech.) Computer Science student �
 
 <p align="left"> <a href="https://twitter.com/rakesh69a" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh69a?logo=twitter&style=for-the-badge" alt="rakesh69a" /></a> </p>
 
-- Hi, I am working on **Javascript Project**
+- Hi, I am working on **React Project**
 
 - 🌱 I’m currently learning **ReactJs & DSA**
 
