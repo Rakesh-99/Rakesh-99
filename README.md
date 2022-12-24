@@ -7,7 +7,7 @@ I am a Third year Bachelor of Technology (B.Tech.) Computer Science student 🎓
 
 - Hi, I am working on **React Project**
 
-- 🌱 I’m currently learning **ReactJs & DSA**
+- 🌱 I’m currently learning  **DSA**
 
 - 👯 I’m looking to collaborate on **any open source program**
 
