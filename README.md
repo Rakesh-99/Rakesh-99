@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAKESH KUMAR PARIDA</h1>
 <p>Glad to see you here!   
-I am a Third year Bachelor of Technology (B.Tech.) Computer Science student 🎓 from Nalanda Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
+ I am a student 🎓of 3rd year pursuing B.TECH in Computer Science in Nalanda Institute of Technology, Bhubaneswar🏛.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rakesh69a" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh69a?logo=twitter&style=for-the-badge" alt="rakesh69a" /></a> </p>
@@ -21,7 +21,7 @@ I am a Third year Bachelor of Technology (B.Tech.) Computer Science student 🎓
 
 - 📫 How to reach me **rakeshkumarparida424@gmail.com**
 
-- ⚡ Fun fact **Code is Dark and full of Terrors**
+- ⚡ Fun fact **GOOD SOFTWARE, LIKE WINE, TAKES TIME**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
