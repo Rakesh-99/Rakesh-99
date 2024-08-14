@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAKESH KUMAR PARIDA</h1>
 <p>Glad to see you here!   
- I am a student 🎓of Final Year pursuing B.TECH in Computer Science at Nalanda Institute of Technology, Bhubaneswar🏛.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
-<h3 align="center">A passionate frontend developer.</h3>
+I am Rakesh Kumar Parida from Bhubaneswar, Odisha🏠. I recently graduated🎓in 2024 with a B.Tech in Computer Science from Nalanda Institute of Technology🏫, Bhubaneswar. During my academic journey, I developed strong skills in both front-end and back-end development 🧑🏼‍💻. My front-end expertise includes React.js, Redux, JavaScript, Tailwind CSS, HTML5, and CSS3. On the back-end, I am proficient in Node.js, MongoDB, and Express.js. Additionally, I have a solid foundation in Java and Git.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
+<h3 align="center">A passionate Mern stack developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rakesh69a" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh69a?logo=twitter&style=for-the-badge" alt="rakesh69a" /></a> </p>
 
-- Hi, I am working on **MERN STACK PROJECT**
+- Hi, I am working on **MERN STACK PROJECTS**
 
 - 🌱 I’m currently learning  **DSA**
 
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **DATA STRUCTURE & ALGORITHM**
 
-- 👨‍💻 All of my projects are available at [https://rakesh-99.github.io/personal-portfolio/](https://rakesh-99.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at [ https://rakesh-parida.vercel.app/]( https://rakesh-parida.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.rkplearnonline.com/](https://www.rkplearnonline.com/)
+- 📝 I regularly write articles on [ https://blogwizard.vercel.app/]( https://blogwizard.vercel.app/) 
 
 - 💬 Ask me about **JavaScript,Java**
 
