@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAKESH KUMAR PARIDA</h1>
+<h3 align="center">Frontend Developer with proficient in React.js and Node.js</h3>
 <p>Glad to see you here!   
 I am Rakesh Kumar Parida from Bhubaneswar, Odisha🏠. I recently graduated🎓in 2024 with a B.Tech in Computer Science from Nalanda Institute of Technology🏫, Bhubaneswar. During my academic journey, I developed strong skills in both front-end and back-end development 🧑🏼‍💻. My front-end expertise includes React.js, Redux, JavaScript, Tailwind CSS, HTML5, and CSS3. On the back-end, I am proficient in Node.js, MongoDB, and Express.js. Additionally, I have a solid foundation in Java and Git.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
 <h3 align="center">A passionate Mern stack developer.</h3>
