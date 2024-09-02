@@ -1,41 +1,114 @@
-<h1 align="center">Hi 👋, I'm RAKESH KUMAR PARIDA</h1>
-<h3 align="center">Frontend Developer with proficient in React.js and Node.js</h3>
-<p>Glad to see you here!   
-I am Rakesh Kumar Parida from Bhubaneswar, Odisha🏠. I recently graduated🎓in 2024 with a B.Tech in Computer Science from Nalanda Institute of Technology🏫, Bhubaneswar. During my academic journey, I developed strong skills in both front-end and back-end development 🧑🏼‍💻. My front-end expertise includes React.js, Redux, JavaScript, Tailwind CSS, HTML5, and CSS3. On the back-end, I am proficient in Node.js, MongoDB, and Express.js. Additionally, I have a solid foundation in Java and Git.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ </p>
-<h3 align="center">A passionate Mern stack developer.</h3>
+<h2 align="center">Hi 👋! I am Rakesh from Bhubaneswar,India</h2>
 
-<p align="left"> <a href="https://twitter.com/rakesh69a" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh69a?logo=twitter&style=for-the-badge" alt="rakesh69a" /></a> </p>
+###
 
-- Hi, I am working on **MERN STACK PROJECTS**
+<h4 align="center">A passionate Web Developer. 🧑🏼‍💻</h4>
 
-- 🌱 I’m currently learning  **DSA**
+###
 
-- 👯 I’m looking to collaborate on **Any open source program**
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif"  />
+</div>
 
-- 🤝 I’m looking for help with **DATA STRUCTURE & ALGORITHM**
+###
 
-- 👨‍💻 All of my projects are available at [ https://rakesh-parida.vercel.app/]( https://rakesh-parida.vercel.app/)
+<p align="left">Hello, I’m Rakesh Kumar Parida, a recent Computer Science graduate from the Class of 2024. As a fresher with a strong foundation in web development, I specialize in MERN stack and Next.js technologies.</p>
 
-- 📝 I regularly write articles on [ https://blogwizard.vercel.app/]( https://blogwizard.vercel.app/) 
+###
 
-- 💬 Ask me about **JavaScript,Java**
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Rakesh-99/count.svg?"  />
+</div>
+
+###
+
+<h3 align="center">Next Js || TypeScript || React Js || Mern Stack</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakesh-99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rakesh-99&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h4 align="left">Things I code with</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+
+- 🔭 I’m currently working on **Mern Stack & Next Js**
+
+- 🌱 I’m currently learning **Aws**
+
+- 👨‍💻 All of my projects are available at [https://rakesh-parida.vercel.app/](https://rakesh-parida.vercel.app/)
+
+- 📝 I regularly write articles on [https://blogwizard.vercel.app/](https://blogwizard.vercel.app/)
+
+- 💬 Ask me about **Java, JavaScript, TypeScript, NodeJs**
 
 - 📫 How to reach me **rakeshkumarparida424@gmail.com**
 
-- ⚡ Fun fact **GOOD SOFTWARE, LIKE WINE, TAKES TIME**
+- 📄 Know about my experiences [https://rakesh-parida.vercel.app/resume](https://rakesh-parida.vercel.app/resume)
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **Good software,like wine,takes times**
+
+<h4 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://twitter.com/rakesh69a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh69a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakesh-kumar-parida-b142081a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-kumar-parida-b142081a9/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh-99&show_icons=true&locale=en&layout=compact" alt="rakesh-99" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh-99&show_icons=true&locale=en" alt="rakesh-99" /></p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-99&" alt="rakesh-99" /></p>
+###
+
+<h4 align="left">Days I code</h4>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Rakesh-99/Rakesh-99/output/snake.svg" alt="Snake animation" />
+
+###
