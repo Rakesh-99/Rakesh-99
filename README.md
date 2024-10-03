@@ -16,14 +16,6 @@
 
 ###
 
-#### Profile views
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Rakesh-99/count.svg?"  />
-</div>
-
-###
-
 <h3 align="center">Next Js || TypeScript || React Js || Mern Stack</h3>
 
 ###
