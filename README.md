@@ -3,13 +3,17 @@
 ### A little about me
 <div>
   <p>
-    I’m Rakesh Kumar Parida. As a full-stack developer, I develop and maintain web applications and services that enhance user experience and improve the functionality of a company’s products and platforms.
-    
-I completed my B.Tech in Computer Science Engineering from Nalanda Institute of Technology in 2024. During college, I focused on learning the core concepts of software development, data structures, algorithms, and computer networks. I also did a full-stack internship that gave me real-world experience working on web projects.
+Hi, I’m Rakesh Kumar Parida, a Full-Stack Developer skilled in the MERN stack with strong expertise in React, Next.js, and Node.js.
 
-I am passionate about learning new technologies and solving complex problems.. I enjoy working with a team of talented and diverse engineers, who inspire me to grow and innovate.
+I’ve built and deployed several full-fledged applications ranging from trading platform, eCommerce sites, and blogs to dynamic dashboards.
 
-My aim is to build software that’s not just functional, but also simple and smooth for people to use.
+My work involves :
+➡️ API integration
+➡️ Secure authentication
+➡️ Responsive UI design
+➡️ Database management using MongoDB and MySQL.
+
+I'm also confident in Java and C++, and passionate about solving DSA problems.
   </p>
 </div>
 
