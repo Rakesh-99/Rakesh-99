@@ -1,11 +1,9 @@
-# Hi There! Welcome to my Profile ☺️
+# Hi There! Welcome to my Profile
 
 ### A little about me
 <div>
   <p>
-Hi, I’m Rakesh Kumar Parida, a Full-Stack Developer skilled in the MERN stack with strong expertise in React, Next.js, and Node.js.
-
-I’ve built and deployed several full-fledged applications ranging from trading platform, eCommerce sites, and blogs to dynamic dashboards.
+I’m Rakesh Kumar Parida, a Full-Stack Developer skilled in the MERN stack with strong expertise in React, Next.js, and Node.js.
 
 My work involves :
 ➡️ API integration
@@ -13,7 +11,7 @@ My work involves :
 ➡️ Responsive UI design
 ➡️ Database management using MongoDB and MySQL.
 
-I'm also confident in Java and C++, and passionate about solving DSA problems.
+I'm also confident in Java and C++, and passionate about solving problems.
   </p>
 </div>
 
