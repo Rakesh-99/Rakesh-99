@@ -6,10 +6,10 @@
 I’m Rakesh Kumar Parida, a Full-Stack Developer skilled in the MERN stack with strong expertise in React, Next.js, and Node.js.
 
 My work involves :
-➡️ API integration
-➡️ Secure authentication
-➡️ Responsive UI design
-➡️ Database management using MongoDB and MySQL.
+➡️ API integration <br/>
+➡️ Secure authentication <br/>
+➡️ Responsive UI design <br/>
+➡️ Database management using MongoDB and MySQL. <br/>
 
 I'm also confident in Java and C++, and passionate about solving problems.
   </p>
