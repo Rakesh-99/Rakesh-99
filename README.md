@@ -3,11 +3,9 @@
 ### A little about me
 <div>
   <p>
-Full Stack Developer 👨‍💻 1.2+ years of experience building web applications , optimizing API performance, and developing end-to-end web applications.
+I am a Full Stack Developer with 1.4+ years of experience building scalable web applications using the MERN stack. I have experience developing front-end and back-end systems and working with both SQL and NoSQL databases.
 
-Experienced with frontend architectures, backend services, databases, and performance optimization using React, Node.js, TypeScript, and cloud technologies.
-
-Interested in distributed systems, and problem solving.
+ My technical skills include C++, JavaScript, TypeScript, React, Node.js, Express.js, Redis, MongoDB, MySQL, AWS (EC2, Lambda, S3), and  Git
   </p>
 </div>
 
